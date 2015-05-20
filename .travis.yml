@@ -1,0 +1,5 @@
+# Configuration for CI build at https://travis-ci.org/bclozel/spring-resource-handling
+
+language: java
+
+sudo: false
